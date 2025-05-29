@@ -71,7 +71,7 @@
 ### 👽 Fun Space Landing
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Qw4XQZsC4I2zA/giphy.gif" width="250"/>
+  <img src="[https://media.giphy.com/media/Qw4XQZsC4I2zA/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9zbXhibDlqZ3VlYjNudWJydG42ZWxrd3V0dzR6M3p0YmtzcnRpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BoCVdjSJOWT0Fpu/giphy.gif)" width="250"/>
   <p><i style="color:#38b2ac;">Exploring tech galaxies... one commit at a time 👨‍🚀</i></p>
 </div>
 
