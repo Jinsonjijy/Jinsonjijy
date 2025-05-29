@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00ffff;">JINSON JIJI</span></h1>
-<h3 align="center">👨‍💻 Frontend Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h1 align="center" style="color:#9f7aea;">Hi 👋, I'm <span style="color:#38b2ac;">JINSON JIJI</span></h1>
+<h3 align="center" style="color:#9f7aea;">💻 Frontend Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jinsonjijy&label=Profile%20views&color=7f5af0&style=flat" alt="jinsonjijy" />
+  <img src="https://komarev.com/ghpvc/?username=jinsonjijy&label=Profile%20views&color=38b2ac&style=flat" alt="jinsonjijy" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="180" />
   <br />
-  <strong><i>Bringing ideas to life through code 🚀</i></strong>
+  <strong><i style="color:#38b2ac;">Transforming ideas into interfaces 🚀</i></strong>
 </div>
 
 ---
@@ -24,8 +24,12 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:jinsonjijy50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jinsonjijy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jinsonjijy50@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=#38b2ac"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jinsonjijy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=#9f7aea"/>
+  </a>
 </p>
 
 ---
@@ -44,31 +48,31 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jinsonjijy&theme=darkhub&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jinsonjijy&theme=darkhub&title=Followers,Stars,Commits,Repositories&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinsonjijy&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jinsonjijy&show_icons=true&theme=tokyonight&title_color=#9f7aea&icon_color=#38b2ac" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsonjijy&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsonjijy&layout=compact&theme=tokyonight&title_color=#9f7aea" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinsonjijy&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinsonjijy&theme=tokyonight" />
 </p>
 
 ---
 
-### 👽 Fun Space Landing 🎬
+### 👽 Fun Space Landing
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Qw4XQZsC4I2zA/giphy.gif" width="300"/>
-  <p><i>Exploring new tech galaxies... one commit at a time 🚀</i></p>
+  <img src="https://media.giphy.com/media/Qw4XQZsC4I2zA/giphy.gif" width="250"/>
+  <p><i style="color:#38b2ac;">Exploring tech galaxies... one commit at a time 👨‍🚀</i></p>
 </div>
 
 ---
