@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#9f7aea;">Hi 👋, I'm <span style="color:#38b2ac;">JINSON JIJI</span></h1>
-<h3 align="center" style="color:#9f7aea;">💻 Flutter Developer | Backend Explorer | Lifelong Learner</h3>
+<h3 align="center" style="color:#9f7aea;">💻 Flutter Developer | Backend Explorer | Lifelong Learner| AI ENGINEER</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jinsonjijy&label=Profile%20views&color=38b2ac&style=flat" alt="jinsonjijy" />
