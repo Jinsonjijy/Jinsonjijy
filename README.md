@@ -1,11 +1,9 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24&text=Jinson%20Jiji&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Backend%20Developer%20|%20Data%20Engineering%20Learner&descAlignY=60"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24&text=Jinson%20Jiji&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Backend%20Developer%20|%20Data%20Engineering%20Learner&descAlignY=60"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Python+Developer;Backend+Developer;Data+Engineering+Learner;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Backend+Developer;Python+Developer;Data+Engineering+Learner;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀"/>
 </p>
 
 <p align="center">
@@ -22,7 +20,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Jinsonjijy&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Jinsonjijy&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -30,33 +28,23 @@
 
 # 👨‍💻 About Me
 
-```python
-class JinsonJiji:
+<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-    def __init__(self):
-        self.role = "Backend Developer"
-        self.languages = ["Python", "Java", "JavaScript", "C"]
-        self.backend = ["Node.js", "Express"]
-        self.database = ["MySQL", "PostgreSQL"]
-        self.interests = [
-            "Data Engineering",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "System Design"
-        ]
+- 🎓 Computer Science Graduate
+- 💻 Passionate about **Backend Development**
+- 🐍 Building scalable applications with **Python** & **Node.js**
+- 📊 Currently learning **Data Engineering**, **Cloud Computing**, and **SQL**
+- 🤖 Exploring **Artificial Intelligence** & **Machine Learning**
+- 🧩 Solving **Data Structures & Algorithms**
+- 🌱 Always learning and improving
+- 💼 Open to **Software Engineer**, **Backend Developer**, and **Python Developer** opportunities
+- 📫 Reach me at **jinsonjijy50@gmail.com**
 
-    def current_focus(self):
-        return [
-            "Backend Development",
-            "DSA",
-            "Data Engineering",
-            "Open Source"
-        ]
-```
+<br clear="right"/>
 
 ---
 
-# ⚡ Tech Stack
+# ⚒️ Tech Stack
 
 <p align="center">
 
@@ -66,7 +54,7 @@ class JinsonJiji:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -84,7 +72,7 @@ class JinsonJiji:
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -114,7 +102,7 @@ class JinsonJiji:
 
 ---
 
-# 💬 Random Dev Quote
+# 💭 Random Dev Quote
 
 <p align="center">
 
@@ -126,12 +114,14 @@ class JinsonJiji:
 
 <div align="center">
 
-### 🚀 *"Code. Learn. Build. Repeat."*
+### ⭐ Thanks for visiting my profile!
+
+*"Learning never stops. Every line of code is another step forward."*
 
 </div>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
 
 </p>
