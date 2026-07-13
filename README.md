@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24&text=Jinson%20Jiji&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Backend%20Developer%20|%20Data%20Engineering%20Learner&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Python+Developer;Data+Engineering+Learner;AI+%26+Machine+Learning+Enthusiast;Always+Learning+🚀"/>
+
 
 </div>
 
