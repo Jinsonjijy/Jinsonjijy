@@ -220,5 +220,3 @@ To enable the snake animation, add this after setting up the GitHub Action:
 <img src="https://raw.githubusercontent.com/Jinsonjijy/Jinsonjijy/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
--->
-````
