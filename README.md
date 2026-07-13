@@ -1,40 +1,51 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24&text=Jinson%20Jiji&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Backend%20Developer%20|%20Data%20Engineering%20Learner&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Python+Developer;Data+Engineering+Learner;AI+%26+Machine+Learning+Enthusiast;Always+Learning+🚀"/>
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24&text=Jinson%20Jiji&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Backend%20Developer%20|%20Data%20Engineering%20Learner&descAlignY=60"/>
+
+<a href="mailto:jinsonjijy50@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jinsonjijy/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="https://github.com/Jinsonjijy">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Python+Developer;Backend+Developer;Data+Engineering+Learner;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀"/>
-</p>
 
-<p align="center">
-  <a href="mailto:jinsonjijy50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jinsonjijy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jinsonjijy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Jinsonjijy&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Jinsonjijy&label=Profile%20Views&style=flat-square&color=blue"/>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Science Graduate
-- 💻 Passionate about **Backend Development**
-- 🐍 Building applications using **Python** & **Node.js**
-- 📊 Learning **Data Engineering**, **SQL**, and **Cloud Computing**
-- 🤖 Exploring **Artificial Intelligence** & **Machine Learning**
+- 💻 Backend Developer passionate about building scalable applications
+- 🐍 Working with **Python**, **Node.js**, and **SQL**
+- 📊 Learning **Data Engineering**, **Cloud**, and **Machine Learning**
 - 🧩 Practicing **Data Structures & Algorithms**
-- 🌱 Always learning new technologies
-- 💼 Open to **Software Engineer**, **Backend Developer**, and **Python Developer** opportunities
+- 🚀 Open to **Software Engineer**, **Backend Developer**, and **Python Developer** roles
 
 ---
 
-# ⚒️ Tech Stack
+## ⚒️ Tech Stack
 
 <p align="center">
 
@@ -44,7 +55,7 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -62,7 +73,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -72,7 +83,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 
@@ -82,7 +93,7 @@
 
 ---
 
-# 📊 GitHub Profile Summary
+## 📊 Profile Summary
 
 <p align="center">
 
@@ -92,7 +103,7 @@
 
 ---
 
-# 💭 Random Dev Quote
+## 💭 Random Dev Quote
 
 <p align="center">
 
@@ -104,9 +115,9 @@
 
 <div align="center">
 
-### 🚀 *"Code. Learn. Build. Repeat."*
+### ⭐ Thanks for visiting!
 
-⭐ Thanks for visiting my profile!
+**Code • Learn • Build • Repeat 🚀**
 
 </div>
 
